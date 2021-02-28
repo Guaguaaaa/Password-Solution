@@ -1,0 +1,26 @@
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.csprojAssemblyReference.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.AssemblyInfoInputs.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.AssemblyInfo.cs
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.csproj.CoreCompileInputs.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\bin\Debug\netcoreapp3.1\26th Task.exe
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\bin\Debug\netcoreapp3.1\26th Task.deps.json
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\bin\Debug\netcoreapp3.1\26th Task.runtimeconfig.json
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\bin\Debug\netcoreapp3.1\26th Task.runtimeconfig.dev.json
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\bin\Debug\netcoreapp3.1\26th Task.dll
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\bin\Debug\netcoreapp3.1\26th Task.pdb
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.dll
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.pdb
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\26th Task\obj\Debug\netcoreapp3.1\26th Task.genruntimeconfig.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.csprojAssemblyReference.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.AssemblyInfoInputs.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.AssemblyInfo.cs
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.csproj.CoreCompileInputs.cache
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.dll
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.pdb
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\bin\Debug\netcoreapp3.1\26th Task.exe
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\bin\Debug\netcoreapp3.1\26th Task.deps.json
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\bin\Debug\netcoreapp3.1\26th Task.runtimeconfig.json
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\bin\Debug\netcoreapp3.1\26th Task.runtimeconfig.dev.json
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\bin\Debug\netcoreapp3.1\26th Task.dll
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\bin\Debug\netcoreapp3.1\26th Task.pdb
+C:\Users\y.h.guan\Documents\School Subjects\JPC\13cs\C# Program\26th Task\obj\Debug\netcoreapp3.1\26th Task.genruntimeconfig.cache
